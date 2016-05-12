@@ -8,9 +8,9 @@ class CfgPatches
 		requiredVersion = 1.0;
 		requiredAddons[] = {"task_force_radio", "task_force_radio_items"};
 		author[] = {"Raspu"};
-		version = 1.01;
-		versionStr = "1.01";
-		versionAr[] = {1,0,0};
+		version = 1.1;
+		versionStr = "1.1";
+		versionAr[] = {1,1,0};
 	};
 };
 
@@ -46,6 +46,7 @@ class CfgVehicles {
 		tf_encryptionCode = "tf_west_radio_code";
 		tf_dialog = "rt1523g_radio_dialog";
 		tf_subtype = "digital_lr";
+		tf_range = 17000;
 	};
 	class tfw_ilbe_d: tfw_ilbe_wd {
 		displayName = "ILBE AP MARPAT-D RT-1523G (ASIP)";
