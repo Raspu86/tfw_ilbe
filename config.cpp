@@ -40,7 +40,7 @@ class CfgVehicles {
 		model="\tfw_ilbe\data\model\tfw_ilbe.p3d";
 		hiddenSelectionsTextures[] = {"\tfw_ilbe\data\model\ilbe_co.paa"};
 		hiddenSelections[] = {"camo"};
-		maximumLoad=75;
+		maximumLoad=240;
 		mass=80;
 		isbackpack=1;
 		tf_encryptionCode = "tf_west_radio_code";
@@ -75,7 +75,7 @@ class CfgVehicles {
 		model="\tfw_ilbe\data\model\antenna\tfw_ilbe_ant.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\tfw_ilbe\data\model\ilbe_co.paa"};
-		maximumLoad=75;
+		maximumLoad=240;
 		mass=80;
 		isbackpack=1;
 		tf_encryptionCode = "tf_west_radio_code";
